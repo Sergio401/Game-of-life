@@ -5,7 +5,7 @@ import time
 
 pygame.init()
 
-width, height = 600, 600
+width, height = 600, 500
 screen = pygame.display.set_mode((height, width))
 
 bg = 25, 25, 25
